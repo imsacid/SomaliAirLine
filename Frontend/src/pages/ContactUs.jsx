@@ -29,7 +29,8 @@ function ContactUs() {
       <section className="text-center py-16 shadow-2xl">
         <h2 className="text-4xl font-semibold inline-block overflow-hidden whitespace-nowrap border-r-4 border-[var(--text-color)] animate-typing-loop">Contact Us</h2>
         <p className="mt-4 max-w-2xl mx-auto">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        At <span className='text-sky-500 text-xl'>SOM -</span> Airline, we strive to provide unparalleled excellence, combining innovation and dedication to make your travel experience extraordinary.
+        Our commitment to safety, comfort, and customer satisfaction sets us apart in the aviation industry. We are here to assist you with any inquiries or feedback you may have. Your journey matters to us, and we look forward to serving you with the utmost care and professionalism.
         </p>
       </section>
 
@@ -37,18 +38,18 @@ function ContactUs() {
         <div className="lg:w-1/2 lg:pr-8 mb-8 lg:mb-0">
           <h3 className="text-2xl font-semibold">Get In Touch</h3>
           <p className="mt-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan eros, sit amet auctor nunc.
+          At SOM Airline, we are committed to delivering exceptional service, ensuring your journey is seamless and memorable. Whether you have questions, feedback, or need assistance, our dedicated team is here to help. Your satisfaction is our priority, and we look forward to hearing from you.
           </p>
           <ul className="mt-6 space-y-3">
             <li><strong><i className="fa-solid text-sky-500 fa-location-dot"></i> Address:</strong> Mogadishu Eye, Banadir, Somalia</li>
-            <li><strong><i className="fa-solid text-sky-500 fa-phone"></i> Phone Number:</strong> +252-61x-xxxx</li>
-            <li><strong><i className="fa-solid text-sky-500 fa-envelope"></i> E-Mail:</strong> Crewcoder@email.com</li>
+            <li><strong><i className="fa-solid text-sky-500 fa-phone"></i> Phone Number:</strong> +252-61-5000000</li>
+            <li><strong><i className="fa-solid text-sky-500 fa-envelope"></i> E-Mail:</strong> somaliairline@email.com</li>
           </ul>
           <div className="mt-6 flex space-x-4">
-            <a href="#" className="text-sky-500"><i className="fa-brands fa-square-x-twitter"></i> Twitter</a>
-            <a href="#" className="text-sky-500"><i className="fa-brands fa-square-facebook"></i> Facebook</a>
-            <a href="#" className="text-sky-500"><i className="fa-brands fa-square-instagram"></i> Instagram</a>
-            <a href="#" className="text-sky-500"><i className="fa-brands fa-linkedin"></i> LinkedIn</a>
+            <a href="https://x.com/imsacid" className="text-sky-500"><i className="fa-brands fa-square-x-twitter"></i> Twitter</a>
+            <a href="https://github.com/imsacid" className="text-sky-500"><i className="fa-brands fa-github"></i> GitHub</a>
+            <a href="https://www.instagram.com/thereal.s.g/" className="text-sky-500"><i className="fa-brands fa-square-instagram"></i> Instagram</a>
+            <a href="https://www.linkedin.com/in/imsacid/" className="text-sky-500"><i className="fa-brands fa-linkedin"></i> LinkedIn</a>
           </div>
         </div>
 

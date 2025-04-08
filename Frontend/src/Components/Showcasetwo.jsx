@@ -29,10 +29,10 @@ function Showcasetwo() {
               <i className="fa-solid fa-star"></i>
             </div>
             <h1 className="text-2xl font-semibold text-center lg:text-left sm:pt-2 sm:pb-2">
-              Welcome to Som- <span>Airline</span>
+            Experience Excellence with <span>Som-Airline</span>
             </h1>
             <p className="text-center lg:text-left">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugit.
+            At Som-Airline, we are dedicated to...
             </p>
             <div className="flex justify-center lg:justify-start">
               <button className="bg-[var(--button-background-color)] py-1 font-serif mt-2 px-5 text-[var(--text-color)] border-2 border-[var(--border-color)] rounded-md">
@@ -57,10 +57,10 @@ function Showcasetwo() {
               <i className="fa-solid fa-star"></i>
             </div>
             <h1 className="text-2xl font-semibold text-center lg:text-left sm:pt-2 sm:pb-2">
-              Welcome to Som- <span>Airline</span>
+            Discover Luxury with <span>Som-Airline</span>
             </h1>
             <p className="text-center lg:text-left">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugit.
+              Experience the perfect blend of com... 
             </p>
             <div className="flex justify-center lg:justify-start">
               <button className="bg-[var(--button-background-color)] py-1 font-serif mt-2 px-5 text-[var(--text-color)] border-2 border-[var(--border-color)] rounded-md">
@@ -75,7 +75,7 @@ function Showcasetwo() {
             className="w-full lg:w-[290px] h-[250px]"
           
             src={Airplane3}
-            alt="qr"
+            alt="global connectivity"
           />
           <div className="pl-2 pb-3">
             <div className="flex gap-1 lg:gap-5 text-[#ffb703] pt-3 justify-center lg:justify-start">
@@ -86,10 +86,10 @@ function Showcasetwo() {
               <i className="fa-solid fa-star"></i>
             </div>
             <h1 className="text-2xl font-semibold text-center lg:text-left sm:pt-2 sm:pb-2">
-              Welcome to Som- <span>Airline</span>
+            Connecting the World with <span>Som-Airline</span>
             </h1>
             <p className="text-center lg:text-left">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugit.
+            With Som-Airline, explore global desti...
             </p>
             <div className="flex justify-center lg:justify-start">
               <button className="bg-[var(--button-background-color)] py-1 font-serif mt-2 px-5 text-[var(--text-color)] border-2 border-[var(--border-color)] rounded-md">
